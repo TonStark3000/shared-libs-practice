@@ -1,5 +1,5 @@
 def call(url){
   steps{
-                git "${url}" 
+                git ${url}
             }
 }
